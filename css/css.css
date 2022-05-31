@@ -1,0 +1,62 @@
+*{
+    font-family: 'janna lt';
+    box-sizing: border-box;
+}
+.logo{
+    text-align: center;
+    margin: 40px 0;
+}
+.logo img{
+    width: 100px;
+}
+.logo h2{
+    font-size: 30px;
+    font-weight: 500;
+    color: #00a9b0;
+}
+.book{
+    text-align: center;
+}
+.book p{
+    font-size: 24px;
+}
+.book input{
+    width: 50%;
+    margin-bottom: 10px;
+    padding: 10px;
+    text-align: center;
+    font-size: medium;
+}
+.book input[type="submit"]{
+    font-size: 16px;
+    color: #fff;
+    background: #00a9b0;
+    border: none;
+}
+table{
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+    font-size: 20px;
+    color: #fff;
+}
+th{
+    background: #00a9b0;
+    color: #fff;
+    padding: 5px 0;
+    border: 1px solid black;
+}
+tr{
+    background-color: whitesmoke;
+    border-bottom: 1px solid #00a9b0;
+}
+td{
+    border: 1px solid black;
+}
+.tbl{
+    color: black;
+}
+.tbl:hover{
+    background-color: white;
+    opacity: 0.9;
+}
